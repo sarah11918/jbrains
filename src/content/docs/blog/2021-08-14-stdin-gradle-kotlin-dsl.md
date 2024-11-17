@@ -4,10 +4,10 @@ date: 2021-08-14
 tags:
     - The Little Things
     - Tutorials
-summary: >
-    How does one accept user input from `stdin` in a Java
-    application when running it with `gradle run` when
-    using the Kotlin build DSL? Here's how!
+# summary: >
+#     How does one accept user input from `stdin` in a Java
+#     application when running it with `gradle run` when
+#     using the Kotlin build DSL? Here's how!
 ---
 I couldn't figure this out myself, nor even find the appropriate Stack Overflow article on my own, so I'm writing this. I hope you find it and it alleviates your annoyed state.
 

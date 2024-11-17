@@ -5,10 +5,10 @@ lastUpdated: 2019-03-18
 tags:
   - "Test Doubles"
   - Dependency Inversion Principle (DIP)
-summary: >
-    I like test doubles/mock objects; I use them freely and happily. Even so, I sometimes use them
-    as a stepping-stone to a more-suitable design that I can test without them. Here, I show one
-    example, when I depend on a thing instead of the the thing that provides that thing.
+# summary: >
+#    I like test doubles/mock objects; I use them freely and happily. Even so, I sometimes use them
+#    as a stepping-stone to a more-suitable design that I can test without them. Here, I show one
+#    example, when I depend on a thing instead of the the thing that provides that thing.
 ---
 You might call this title "clickbait". Yes and no. Of course, I want you to read this article, but at the same time, there is no bait and switch here. I use test doubles ("mock objects", since that term refuses to die) freely and happily. I use them prominently as design tools. I like them. I feel grateful to them. And even so, my design sometimes improves when I remove them. To paraphrase Ron Jeffries, **this is good news about the improved design and not bad news about test doubles**.
 

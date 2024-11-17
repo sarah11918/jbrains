@@ -3,10 +3,10 @@ title: "Removing RVM Completely"
 date: 2018-07-14
 tags:
   - "The Little Things"
-summary: >
-  I got myself into trouble by installing `rvm` incorrectly. Reading a single article
-  did not suffice to get myself out of trouble, so let this become the single article
-  that you can use to get yourself out of trouble.
+# summary: >
+#  I got myself into trouble by installing `rvm` incorrectly. Reading a single article
+#  did not suffice to get myself out of trouble, so let this become the single article
+#  that you can use to get yourself out of trouble.
 ---
 I made a silly mistake installing `rvm` on my new Linux laptop. I should mention that I don't really know Linux yet, so that makes me susceptible to making this kind of silly mistake. I accidentally installed `rvm` as a multi-user/system-wide tool, rather than in single-user mode. Since I like the _use the narrowest scope possible_, I wanted to fix this. Of course I also had the problem that `rvm` wouldn't work without `sudo` and that seemed really weird to me. I figured that I should uninstall `rvm` completely and then start again. No problem, right?
 

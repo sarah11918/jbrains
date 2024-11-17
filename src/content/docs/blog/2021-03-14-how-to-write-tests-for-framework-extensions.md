@@ -3,11 +3,11 @@ title: "How to Write Tests For Framework Extensions?"
 date: 2021-03-14
 tags:
     - Beware the Integrated Tests Scam (was Integrated Tests Are a Scam)
-summary: >
-    Programmers get into trouble when they try to use one set of tests to
-    check their code and someone else's framework. Clarifying the intention
-    of the tests and isolating these two kinds of behavior from each other
-    tends to lead to better results overall.
+# summary: >
+#     Programmers get into trouble when they try to use one set of tests to
+#     check their code and someone else's framework. Clarifying the intention
+#     of the tests and isolating these two kinds of behavior from each other
+#     tends to lead to better results overall.
 ---
 
 # A Reader Question

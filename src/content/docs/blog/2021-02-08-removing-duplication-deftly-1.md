@@ -5,10 +5,10 @@ tags:
     - Simple Design
     - Refactoring
     - Removing Duplication Deftly
-imageUri: "/images/Removing-Duplication-Deftly-poster.png"
-summary: >
-    We removed duplication as part of fixing a defect. Doing this helped
-    us see more clearly both how to understand and fix the defect.
+# imageUri: "/images/Removing-Duplication-Deftly-poster.png"
+# summary: >
+#     We removed duplication as part of fixing a defect. Doing this helped
+#     us see more clearly both how to understand and fix the defect.
 ---
 
 In my evolutionary design practice, I consider _removing duplication_ one of the three fundamental moves.[^the-fundamental-moves] Accordingly, I practise this move daily and trust it as a primary tactic for understanding the needs of the design. I would like to share a little example with you.

@@ -2,11 +2,11 @@
 title: "The Myth of Advanced TDD"
 date: 2017-11-16
 author: "J. B. Rainsberger"
-image: https://gallery.mailchimp.com/80ca60ec48ef77dfaa1f38943/images/0e779918-7d9b-431e-b845-859235cd39ee.jpg
+# image: https://gallery.mailchimp.com/80ca60ec48ef77dfaa1f38943/images/0e779918-7d9b-431e-b845-859235cd39ee.jpg
 tags:
     - "Simple Design"
     - "Test Doubles"
-summary: "People frequently ask me for \"advanced TDD\". I have good news and bad news."
+# summary: "People frequently ask me for \"advanced TDD\". I have good news and bad news."
 ---
 "I want to get a lot of wisdom on TDD techniques". Many people ask me about this, especially when they sign up for my mailing list. They want the "advanced stuff". I have good news and bad news for them: I don't believe in "advanced TDD". If you want advanced testing techniques, then you're probably looking for techniques that will make your code worse, not better. (I don't want you to do that.) If you want "advanced TDD", then you've probably missed the single most important bit of "wisdom on TDD techniques": the tests are telling you how to improve your design, so listen!
 

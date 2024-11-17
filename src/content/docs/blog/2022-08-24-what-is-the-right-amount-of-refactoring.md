@@ -5,9 +5,9 @@ tags:
     - Refactoring
     - Simple Design
     - Evolutionary Design
-summary: >
-    You refactor too much! We're not refactoring enough!
-    This is a problem that, with a light touch, resolves itself.
+# summary: >
+#     You refactor too much! We're not refactoring enough!
+#     This is a problem that, with a light touch, resolves itself.
 ---
 
 A mentoring client of mine said this recently:

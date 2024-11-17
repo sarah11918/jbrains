@@ -5,10 +5,10 @@ tags:
     - Refactoring
     - Simple Design
     - Evolutionary Design
-summary: >
-    The most common definition of "refactoring" suffers from
-    a common weakness that creates big problems for a very
-    specific group of people. I'd like to help.
+# summary: >
+#     The most common definition of "refactoring" suffers from
+#     a common weakness that creates big problems for a very
+#     specific group of people. I'd like to help.
 ---
 
 What is refactoring?

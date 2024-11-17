@@ -4,10 +4,10 @@ date: 2021-01-20
 tags:
     - Not Just Coding
     - Simple Design
-summary: >
-    Writing "too many" `if` conditions can cause problems in code,
-    but I think we'd all feel better understanding why this might be
-    the case, rather than merely repeating received wisdom.
+# summary: >
+#     Writing "too many" `if` conditions can cause problems in code,
+#     but I think we'd all feel better understanding why this might be
+#     the case, rather than merely repeating received wisdom.
 ---
 Complicated code only creates problems when humans try to change it. When we try to change code, we spend energy understanding it, and so we label code "complicated" when it _feels_ like it requires "too much" energy to understand. That's why we _design_ software: we organize code in a way that reduces the cost of understanding it.
 

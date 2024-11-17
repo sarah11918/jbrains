@@ -4,10 +4,10 @@ date: 2021-07-11
 lastUpdated: 2021-08-12
 tags:
     - Beware the Integrated Tests Scam (was Integrated Tests Are a Scam)
-summary: >
-    The integrated tests scam goes beyond "merely" making
-    tests slow and brittle. Sometimes they render impossible
-    an otherwise straightforward test.
+# summary: >
+#     The integrated tests scam goes beyond "merely" making
+#     tests slow and brittle. Sometimes they render impossible
+#     an otherwise straightforward test.
 ---
 
 Today I ran into an example of where I'd _really_ have liked to have some way to write a unit test. Let me clarify: by _unit test_, I only mean _any test with a smaller scope than the entire system_. I don't want a microtest. I would even have felt satisfied with clearer, more up-to-date documentation, although perhaps I might not have trusted it.

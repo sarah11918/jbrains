@@ -8,9 +8,9 @@ tags:
 excerpt: >
   When it comes to organizing collaboration and contract tests, I don't do
   anything special: I mostly follow the two elements of simple design.
-summary: >
-  When it comes to organizing collaboration and contract tests, I don't do
-  anything special: I mostly follow the two elements of simple design.
+# summary: >
+#  When it comes to organizing collaboration and contract tests, I don't do
+#  anything special: I mostly follow the two elements of simple design.
 ---
 A reader asked me:
 

@@ -1,10 +1,10 @@
 ---
 title: "A Natural Microflow in TDD"
 date: 2020-08-03
-summary: >
-    To some it feels a bit wrong, but it feels quite natural to me:
-    I often need to refactor just before writing the next failing test.
-    Indeed, that seems like a good practice on its face!
+# summary: >
+#     To some it feels a bit wrong, but it feels quite natural to me:
+#     I often need to refactor just before writing the next failing test.
+#     Indeed, that seems like a good practice on its face!
 ---
 
 A reader asked me this question: 

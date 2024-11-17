@@ -6,12 +6,14 @@ tags:
     - Test Doubles
     - Simple Design
     - Beware the Integrated Tests Scam (was Integrated Tests Are a Scam)
-summary: >
-    If you read enough articles on TDD and testing, you'll find authors who view mocks
-    with significant suspicion. I think that they criticize the symptom and not the cause.
-    If you count yourself among these people, then you don't hate mocks, you hate side-effects.
-    I don't _hate_ side-effects, but I feel glad that I've learned how to refactor away from them.
-image: https://images.jbrains.ca/twitter-cards/way-wrong-1245111-639x426.jpg
+# summary: >
+#     If you read enough articles on TDD and testing, you'll find authors who view mocks
+#     with significant suspicion. I think that they criticize the symptom and not the cause.
+#     If you count yourself among these people, then you don't hate mocks, you hate side-effects.
+#     I don't _hate_ side-effects, but I feel glad that I've learned how to refactor away from them.
+cover:
+    image: https://images.jbrains.ca/twitter-cards/way-wrong-1245111-639x426.jpg
+    alt: "WAY WRONG stencilled in yellow on the pavement."
 ---
 
 You don't hate mocks; you hate side-effects.[^hate] When a mock annoys you, it realizes its purpose, showing you where a side-effect is getting in your way. If you refactor away from the side-effect, then you eliminate the mock. The mock is a **consequence of your pain**, not the cause of it. Please don't blame the poor mock for doing its job.

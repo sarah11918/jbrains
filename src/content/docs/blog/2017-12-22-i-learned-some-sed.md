@@ -5,8 +5,8 @@ lastUpdated: 2022-04-29
 tags:
   - Tutorials
   - Microtechniques
-summary: >
-  I decided to learn some `sed`, because of its ubiquity and its power.
+# summary: >
+#  I decided to learn some `sed`, because of its ubiquity and its power.
 ---
 
 <section class="highlight">

@@ -1,11 +1,11 @@
 ---
 title: "Stepping Around a TDD Roadblock"
 date: 2022-04-11
-summary: >
-    Programmers routinely give up on TDD when they try to 
-    do it in their toughest, meanest, most-valuable legacy
-    code. I understand their impulse, but I think they're
-    setting themselves up for failure and ultimately missing out.
+# summary: >
+#     Programmers routinely give up on TDD when they try to 
+#     do it in their toughest, meanest, most-valuable legacy
+#     code. I understand their impulse, but I think they're
+#     setting themselves up for failure and ultimately missing out.
 tags:
     - Evolutionary Design
     - Refactoring

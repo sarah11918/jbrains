@@ -1,8 +1,8 @@
 ---
 title: "A Contract Is Just An Understanding"
 date: 2019-06-14
-summary: >
-    A software contract is not a legal contract, so let's not treat it as one.
+# summary: >
+#    A software contract is not a legal contract, so let's not treat it as one.
 tags:
   - Beware the Integrated Tests Scam (was Integrated Tests Are a Scam)
   - Simple Design

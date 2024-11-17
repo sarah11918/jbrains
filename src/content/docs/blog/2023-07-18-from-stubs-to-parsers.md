@@ -5,12 +5,12 @@ tags:
   - Simple Design
   - Mock Objects
   - Refactoring
-summary: >
-  When you notice that you need "too many" stubs
-  (mocks for querying data), you have at least two helpful
-  options for refactoring. Here is an example of using
-  the more-aggressive of the two options: replacing a stub 
-  with the stubbed value.
+# summary: >
+#   When you notice that you need "too many" stubs
+#   (mocks for querying data), you have at least two helpful
+#   options for refactoring. Here is an example of using
+#   the more-aggressive of the two options: replacing a stub 
+#   with the stubbed value.
 ---
 
 <aside>

@@ -5,14 +5,14 @@ tags:
     - Simple Design
     - Microtechniques
     - Refactoring
-summary: >
-    You understand the benefits of refactoring, but you still feel a
-    strong impulse to rewrite larger pieces of your system. You believe
-    that refactoring would be safer and more effective,
-    but it feels too slow for you to choose to do it under the pressure
-    of an industrial-strength situation. What does that mean? What 
-    can you do?
-image: https://blog.thecodewhisperer.com/images/breaking-through-your-refactoring-rut/better-refactoring-through-chunking.png
+# summary: >
+#    You understand the benefits of refactoring, but you still feel a
+#    strong impulse to rewrite larger pieces of your system. You believe
+#    that refactoring would be safer and more effective,
+#    but it feels too slow for you to choose to do it under the pressure
+#    of an industrial-strength situation. What does that mean? What 
+#    can you do?
+# image: https://blog.thecodewhisperer.com/images/breaking-through-your-refactoring-rut/better-refactoring-through-chunking.png
 ---
 
 Refactoring, the activity, involves the following things.

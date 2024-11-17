@@ -5,9 +5,9 @@ tags:
   - Simple Design
   - Refactoring
   - Microtechniques
-summary: >
-  A guard clause might be an embryonic parser, so
-  what happens if you nudge it in that direction?
+# summary: >
+#   A guard clause might be an embryonic parser, so
+#   what happens if you nudge it in that direction?
 ---
 
 # Overture

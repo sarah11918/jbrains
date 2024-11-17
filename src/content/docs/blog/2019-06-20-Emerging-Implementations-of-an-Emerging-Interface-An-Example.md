@@ -5,11 +5,11 @@ tags:
     - Simple Design
     - Evolutionary Design
     - Refactoring
-summary: >
-    Many senior programmers feel nervous allowing their project's design to evolve
-    in the hands of their co-workers. This article shows one specific example of how
-    a useful abstraction and a small type hierarchy can evolve by following simple
-    design guidelines that anyone can learn.
+# summary: >
+#     Many senior programmers feel nervous allowing their project's design to evolve
+#     in the hands of their co-workers. This article shows one specific example of how
+#     a useful abstraction and a small type hierarchy can evolve by following simple
+#     design guidelines that anyone can learn.
 ---
 How do object hierarchies evolve? Many programmers struggle with this question. Mostly, they want to know how object hierarchies can evolve _safely and sensibly_! They have a picture in their mind that TDD is only safe in the hands of programmers with excellent design sense, but [I believe that anyone can learn these skills with a combination of simple guidelines and guided practice.](https://tdd.training) It would be nice to have more examples. I have stumbled upon one that I'd like to share with you.
 

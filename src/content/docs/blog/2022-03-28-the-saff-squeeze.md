@@ -3,10 +3,10 @@ title: "The Saff Squeeze"
 date: 2022-03-28
 tags:
     - Tutorials
-summary: >
-    Debug with automated tests: it's systematic, it leaves
-    a record of what we've learned, and it's boring in the
-    best possible ways.
+# summary: >
+#     Debug with automated tests: it's systematic, it leaves
+#     a record of what we've learned, and it's boring in the
+#     best possible ways.
 ---
 
 I like it when programming feels boring. I prefer to save the excitement for the actually difficult parts of the job of developing software: understanding what to try to build, navigating people, negotiating plans, all that stuff. When it comes time to write code, I'd like that to be exactly the right kind of boring: I want things to work, I want to make steady progress, and I want to know what's left to do.
