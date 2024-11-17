@@ -6,7 +6,10 @@ import starlightBlog from 'starlight-blog'
 export default defineConfig({
 	integrations: [
 		starlight({
-			title: 'My Docs',
+			title: '',
+			logo: {
+				src: './src/assets/logo.png',
+			  },
 			social: {
 				github: 'https://github.com/withastro/starlight',
 			},
