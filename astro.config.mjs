@@ -11,7 +11,10 @@ export default defineConfig({
 				src: './src/assets/logo.png',
 			  },
 			social: {
-				github: 'https://github.com/sarah11918/jbrains',
+				github: 'https://github.com/jbrains',
+				mastodon: 'https://mastodon.social/@jbrains',
+				blueSky:'https://bsky.app/profile/jbrains.ca',
+				stackOverflow: 'https://stackoverflow.com/users/253921/jbrains',
 			},
 			customCss: [
 				'./src/styles/custom.css',
