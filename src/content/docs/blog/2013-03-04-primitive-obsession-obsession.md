@@ -1,7 +1,7 @@
 ---
 title: "Primitive Obsession Obsession"
 date: 2013-03-04
-tags: 
+tags: []
 ---
 A Twitter conversation about Primitive Obsession caught my eye today. That conversation began with this tweet:
 

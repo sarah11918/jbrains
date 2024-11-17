@@ -1,7 +1,7 @@
 ---
 title: "What your tests don't need to know will hurt you"
 lastUpdated: 2013-10-30
-tags:
+# tags:
 ---
 <style type="text/css">
 .rule { display: block; margin-left: 5%; margin-right: 5%; border: 3px solid; padding: 1em; }

@@ -1,7 +1,7 @@
 ---
 title: "Losing time to Faraday"
 date: 2013-11-17
-tags: 
+tags: []
 ---
 I just wanted an HTTP client.
 

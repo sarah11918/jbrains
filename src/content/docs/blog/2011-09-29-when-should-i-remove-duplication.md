@@ -1,6 +1,7 @@
 ---
 title: "When should I remove duplication?"
-tags:
+date: 2011-09-29
+tags: []
 ---
 As I learn to become a better programmer, I continue to follow [the four elements of simple design][FourElements]. Of these, I have observed that "remove duplication" helps me discover an appropriate structure for the thing I want to build. In my classes, we practise removing duplication a lot, in part because most people understand the rule "remove duplication" well enough to find it useful. After the first few weeks of practice, however, programmers following this rule observe varying results: sometimes removing the duplication makes the design much clearer, and sometimes it muddies the water. At this stage, she usually looks for more detailed rules to help decide when to remove duplication and when to leave it alone. I offer some simple rules and guidelines for this situation.
 

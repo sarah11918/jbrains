@@ -1,7 +1,7 @@
 ---
 title: "Google Spreadsheet as a Test-First Demo Environment"
 date: 2014-03-25
-tags: 
+tags: []
 ---
 If you like to teach test-first/test-driven techniques, then you have probably stumbled over configuration problems in your programming environment. This happens to every presenter at least once. We have a variety of ways to handle the problem, and today I'd like to share another one with you.
 

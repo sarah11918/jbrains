@@ -1,7 +1,7 @@
 ---
 title: "You Have To Know When To Stop"
 date: 2015-02-15
-tags:
+tags: []
 ---
 After one of the mob programming sessions I did with [RubySteps](https://www.rubysteps.com) last year, a viewer singled out this as a valuable piece of advice:
 

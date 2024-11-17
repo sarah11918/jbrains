@@ -1,12 +1,12 @@
 ---
 title: "Gaining Confidence in Code that Generates HTML"
 date: 2014-10-12
-tags:
-excerpt_separator: <!--more-->
+tags: []
+# excerpt_separator: <!--more-->
 ---
 How do I gain confidence in code that generates HTML, such as tag libraries or view templates?
 
-Well, it depends on what I'm trying to do.
+Well, it depends on what I'm trying to do. 
 <!--more-->
 
 **Am I learning how an existing tag library works?** If so, then I create a bare project, install the tag library, use it to generate some HTML, then use something like HTMLUnit[^age] (any HTML parser will do) to check the results. This way, I can explore all the features that the tag library has without mixing those tests up with the tests for my project's core behavior. I can use what I learn from these Learning Tests[^learning-tests], meaning the **contract of the tag library features that matter to me**, to write tests for my core behavior that make safe&mdash;well, _safer_&mdash;assumptions about what the tag libraries do.

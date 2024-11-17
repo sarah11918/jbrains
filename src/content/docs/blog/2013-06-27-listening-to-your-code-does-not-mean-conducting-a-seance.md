@@ -1,7 +1,7 @@
 ---
 title: "Listening to your code does not mean conducting a seance"
 date: 2013-06-27
-tags: 
+tags: []
 ---
 I love having tricky conversations on Twitter. I know a lot of you don't, because you can't express yourself clearly in 140 characters or less, but I love it for precisely that reason. The constraint makes it easy to voice objections, which makes assumptions visible and encourages us to challenge them. You'd be amazed at the things that people object to -- issues that you thought were settled a long time ago, which you take for granted, at least within certain of your social circles.
 

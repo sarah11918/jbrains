@@ -1,7 +1,7 @@
 ---
 title: "Refactoring CSS: Not Impossible"
 date: 2014-05-30
-tags: 
+tags: []
 ---
 I wanted to change some of the styling at [jbrains.ca](https://www.jbrains.ca), but I have a legacy Wordpress template, so I needed a way to start making incremental changes with something remotely approximating tests. I knew that I didn't want to have to crawl every page to check that every pixel remained in the same place, in part because that would kill me, and in part because I don't need every pixel to remain in the same place. I needed another way.
 

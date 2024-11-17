@@ -1,7 +1,7 @@
 ---
 title: "Your Constructors are Completely Irrational"
 date: 2015-03-23
-tags:
+tags: []
 ---
 When clients ask me to [help them with legacy code](https://link.jbrains.ca/1tC0bDa) it generally takes less than 30 minutes for me to run into a _debilitating constructor_&mdash;a term I use to describe a constructor that does too much. You might think me melodramatic for calling it "debilitating", but these constructors not only slow us down when we try to understand the code, but block our every effort to improve it. These constructors often hardwire a dependency either to some horrifying external resource (a database or a web service end point) or into a framework (even something as "simple" as threads or a lifecycle manager). These constructors also often grow to dozens, and in some extreme cases hundreds, of lines. These constructors kill code bases and, by extension, suck the life out of programmers.
 

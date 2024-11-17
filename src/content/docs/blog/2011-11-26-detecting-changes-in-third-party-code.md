@@ -1,6 +1,7 @@
 ---
 title: "Detecting Changes in Third-Party Code"
-tags:
+date: 2011-11-26
+tags: []
 ---
 One of the people who watched [the 2009 version of Beware the Integrated Tests Scam (was Integrated Tests Are a Scam)](https://www.infoq.com/presentations/integration-tests-scam) recently asked me: *I wonder how you deal with updates of third-party libraries. How do you detect subtle API or behaviour changes? At the moment, I write state-based integration tests for these cases and I wonder whether this isn't a sensible use of integration tests.*
 

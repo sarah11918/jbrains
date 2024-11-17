@@ -2,7 +2,7 @@
 title: "Publish posts later with Jekyll/Octopress"
 date: 2012-12-06
 lastUpdated: 2014-10-15
-tags:
+tags: []
 ---
 <style type="text/css">
 span.keep-together { white-space: nowrap; }

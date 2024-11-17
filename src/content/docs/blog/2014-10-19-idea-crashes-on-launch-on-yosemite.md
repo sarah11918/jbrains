@@ -1,7 +1,7 @@
 ---
 title: "IDEA Crashes on Launch on Yosemite"
 date: 2014-10-19
-tags:
+tags: []
 ---
 I upgraded to Mac OS 10.10 Yosemite and something strange happened with my installations of IntelliJ IDEA. They just disappeared. I still don't know what happened to them. When I tried to reinstall IDEA 13 Community Edition, it crashed on launch.
 

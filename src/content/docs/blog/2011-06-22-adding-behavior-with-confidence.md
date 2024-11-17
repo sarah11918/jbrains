@@ -1,6 +1,6 @@
 ---
 title: Adding behavior with confidence
-tags:
+tags: []
 ---
 # The 30-second version
 

@@ -1,7 +1,7 @@
 ---
 title: "Announcing a New Book"
 date: 2012-12-03
-tags: 
+tags: []
 ---
 I'm pleased to announce that I have started writing a new book, entitled [*Responsible Design for Android*](https://link.jbrains.ca/SpIUHM). I really envision this as a *series of short books*, not wanting to repeat the 750-page behemoth that was [JUnit Recipes](https://link.jbrains.ca/TEDGGm). 
 

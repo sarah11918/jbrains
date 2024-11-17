@@ -1,7 +1,7 @@
 ---
 title: "\"I Like Mocks, But I Distrust Spies\""
 date: 2014-09-15
-tags: 
+tags: []
 ---
 Some time ago a client asked me some questions about spies and mocks. I wanted to share what we discussed with you.
 

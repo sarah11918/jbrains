@@ -1,7 +1,7 @@
 ---
 title: "Let Code Flow Towards Better Design"
 date: 2014-08-22
-tags: 
+tags: []
 ---
 I think that programmers worry far too much about design.
 

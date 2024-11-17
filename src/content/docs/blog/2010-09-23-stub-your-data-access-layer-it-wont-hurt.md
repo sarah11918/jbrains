@@ -1,6 +1,6 @@
 ---
 title: "Stub your data access layer; it won't hurt"
-tags:
+tags: []
 ---
 I came across this question on the <code>testdrivendevelopment</code> Yahoo! group.
 

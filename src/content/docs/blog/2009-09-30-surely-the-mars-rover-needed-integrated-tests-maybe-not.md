@@ -1,5 +1,6 @@
 ---
 title: "Surely the Mars rover needed integrated tests! (Maybe not?)"
+date: 2009-09-30
 tags:
   - "Beware the Integrated Tests Scam (was Integrated Tests Are a Scam)"
 ---
