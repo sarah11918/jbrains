@@ -1,5 +1,6 @@
 ---
 title: "10 Ways to Kill Your Design"
+date: 2012-02-19
 tags:
   - Dependency Inversion Principle (DIP)
 ---

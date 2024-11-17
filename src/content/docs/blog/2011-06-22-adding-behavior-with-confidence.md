@@ -1,5 +1,6 @@
 ---
 title: Adding behavior with confidence
+date: 2011-06-22
 tags: []
 ---
 # The 30-second version

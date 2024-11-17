@@ -1,5 +1,6 @@
 ---
 title: "Beware the Integrated Tests Scam (was Integrated Tests Are a Scam): No conflict with GOOS"
+date: 2011-04-25
 tags:
   - "Beware the Integrated Tests Scam (was Integrated Tests Are a Scam)"
 ---

@@ -1,5 +1,6 @@
 ---
 title: "What your tests don't need to know will hurt you"
+date: 2010-01-14
 lastUpdated: 2013-10-30
 # tags:
 ---

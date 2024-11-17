@@ -1,5 +1,6 @@
 ---
 title: "Injecting dependencies doesn't have to hurt"
+date: 2010-12-04
 tags:
   - Dependency Inversion Principle (DIP)
 ---

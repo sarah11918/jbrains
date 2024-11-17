@@ -1,5 +1,6 @@
 ---
 title: "Stub your data access layer; it won't hurt"
+date: 2010-09-23
 tags: []
 ---
 I came across this question on the <code>testdrivendevelopment</code> Yahoo! group.

@@ -1,5 +1,6 @@
 ---
 title: "Contract Tests: An Example"
+date: 2011-07-07
 tags:
   - "Beware the Integrated Tests Scam (was Integrated Tests Are a Scam)"
 ---

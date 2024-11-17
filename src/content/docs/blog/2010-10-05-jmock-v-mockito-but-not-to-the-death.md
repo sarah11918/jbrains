@@ -1,5 +1,6 @@
 ---
 title: JMock v. Mockito, but not to the death
+date: 2010-10-05
 tags: []
 ---
 <p class="update" markdown="1">Although I originally wrote this to describe how/when I use JMock compared to Mockito, you can easily read this as an article comparing the use of mocks (expectations) to the use of spies. JMock operates by default in "expectation" mode, while Mockito operates by default in "spy" mode. In short: expectations and spies have exactly the same expressive power and so I use both in different contexts.</p>

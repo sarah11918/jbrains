@@ -1,5 +1,6 @@
 ---
 title: RSpec, have_tag(), Spec::Matcher and Nokogiri
+date: 2010-02-19
 tags: []
 ---
 One of my faithful readers at [https://www.jbrains.ca](https://www.jbrains.ca) told me that he couldn't find an RSS feed icon in his Firefox address bar. I thought I could implement that fairly easily, so I agreed to do it. In the process, I wrote this spec:
