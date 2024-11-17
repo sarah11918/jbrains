@@ -1,12 +1,12 @@
 ---
 title: "Which Kinds of Tests Should I Write?"
 date: 2022-04-03
-# summary: >
-#     Programmers routinely ask me for advice on which kinds
-#     of tests they ought to write: unit vs. functional, fast vs. slow,
-#     big vs. small. They keep saying "integration test" when they
-#     mean "integrated test". We have made this confusing, so I'd
-#     like to take one step towards clarifying it.
+excerpt: >
+    Programmers routinely ask me for advice on which kinds
+    of tests they ought to write: unit vs. functional, fast vs. slow,
+    big vs. small. They keep saying "integration test" when they
+    mean "integrated test". We have made this confusing, so I'd
+    like to take one step towards clarifying it.
 tags:
     - Microtechniques
     - Evolutionary Design

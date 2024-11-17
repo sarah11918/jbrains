@@ -4,10 +4,10 @@ date: 2018-07-09
 lastUpdated: 2020-04-25
 tags:
   - "Beware the Integrated Tests Scam (was Integrated Tests Are a Scam)"
-# summary: >
-#  Programmers cling to integrated tests in part because of a feeling of security.
-#  I consider this a false sense of security, but it only seems fair to answer the
-#  common question of how I keep contract tests and collaboration tests aligned.
+excerpt: >
+ Programmers cling to integrated tests in part because of a feeling of security.
+ I consider this a false sense of security, but it only seems fair to answer the
+ common question of how I keep contract tests and collaboration tests aligned.
 # image: https://blog.thecodewhisperer.com/images/who-tests-the-contract-tests/correspondences-between-tests.jpg
 ---
 <img class="paragraph-eyecatcher" src="/images/who-tests-the-contract-tests/stubs-and-expectations-and-spies-and-mocks-and-contract-tests.jpg"></img>

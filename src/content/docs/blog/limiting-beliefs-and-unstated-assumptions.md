@@ -5,11 +5,11 @@ tags:
     - Beware the Integrated Tests Scam (was Integrated Tests Are a Scam)
     - Test Doubles
     - Not Just Coding
-# summary: >
-#     The production implementation of an interface can fail, but
-#     the lightweight implementation that you use for testing can't
-#     fail in the same way. How do you check that the client is
-#     handling that kind of failure? Use another kind of test double.
+excerpt: >
+    The production implementation of an interface can fail, but
+    the lightweight implementation that you use for testing can't
+    fail in the same way. How do you check that the client is
+    handling that kind of failure? Use another kind of test double.
 ---
 
 Limiting beliefs and unstated assumptions interfere with our performance. This is not a trifling matter. Here is yet another story of how that happens.

@@ -10,9 +10,6 @@ excerpt: >
   The business wants more features, but the programmers want to refactor. What if I
   told you that both groups want the same thing?
 # image: "/images/7m26s-sketchnote-DerekGraham.jpg"
-# summary: >
-#  The business wants more features, but the programmers want to refactor. What if I
-#  told you that both groups want the same thing?
 ---
 At Øredev 2013, I asked managers to tell me what makes their job difficult. I spoke to one manager who told me that they face immense pressure on two fronts: from the board of directors to deliver more features more often and from the programmers to give them more time to refactor. I've heard dozens of stories like these over the years and I've found a trick that helps. It doesn't _resolve_ the problem, but it helps take a significant step in the direction of a resolution.
 

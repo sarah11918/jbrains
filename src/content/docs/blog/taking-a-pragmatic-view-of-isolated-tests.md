@@ -1,7 +1,7 @@
 ---
 title: "Taking a Pragmatic View of Isolated Tests"
 date: 2017-03-17
-# summary: A rundown of reasons to prefer isolated/focused tests to integrated tests.
+summary: A rundown of reasons to prefer isolated/focused tests to integrated tests.
 tags:
   - Simple Design
   - Beware the Integrated Tests Scam (was Integrated Tests Are a Scam)

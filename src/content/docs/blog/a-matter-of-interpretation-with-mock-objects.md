@@ -4,9 +4,9 @@ date: 2022-12-27
 tags:
     - Simple Design
     - Refactoring
-# summary: >
-#     Just another little example of two people looking at a situation,
-#     one seeing a problem and the other seeing a solution.
+excerpt: >
+    Just another little example of two people looking at a situation,
+    one seeing a problem and the other seeing a solution.
 ---
 
 In the middle of a discussion about test doubles/mock objects and their role in design, someone posted this:

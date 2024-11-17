@@ -5,10 +5,10 @@ lastUpdated: 2020-11-12
 tags:
     - Simple Design
     - Refactoring
-# summary: >
-#    You have to choose between modularity and seeing more details more often.
-#    If you want more modularity, then complain that you can't see all the code
-#    at once, then you have an inner conflict to resolve. I understand.
+excerpt: >
+   You have to choose between modularity and seeing more details more often.
+   If you want more modularity, then complain that you can't see all the code
+   at once, then you have an inner conflict to resolve. I understand.
 ---
 The bottom line:
 

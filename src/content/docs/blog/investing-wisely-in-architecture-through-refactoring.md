@@ -4,11 +4,11 @@ date: 2023-01-09
 tags:
     - Simple Design
     - Refactoring
-# summary: >
-#     The stronger your refactoring skill, the more easily you can
-#     use architecture advice as guidelines instead of as rules to
-#     enforce. This makes it significantly more likely that you'll
-#     invest wisely in architecture, rather than over- or under-&#x200B;engineer.
+excerpt: >
+    The stronger your refactoring skill, the more easily you can
+    use architecture advice as guidelines instead of as rules to
+    enforce. This makes it significantly more likely that you'll
+    invest wisely in architecture, rather than over- or under-&#x200B;engineer.
 ---
 
 A member of my [mentoring group](https://experience.jbrains.ca) started a discussion regarding this article: [Victor Rentea's "Overengineering in Onion/Hexagonal Architectures"](https://victorrentea.ro/blog/overengineering-in-onion-hexagonal-architectures/). They commented that the article made them feel uncomfortable, because Victor's advice seemed to be to drop all these architecture choices, because they represent overengineering. I wrote some words about this topic there and then I decided to refine my thinking and publish it here.

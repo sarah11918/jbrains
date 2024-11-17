@@ -3,8 +3,8 @@ title: "Renaming Magically With zmv"
 date: 2017-11-23
 tags: 
     - Microtechniques
-# summary: >
-#    I just learned about `zmv` and I love it. Copying and renaming paths with regex? Very handy, indeed.
+excerpt: >
+   I just learned about `zmv` and I love it. Copying and renaming paths with regex? Very handy, indeed.
 # cover:
 #     image: https://images.jbrains.ca/animals/interested-penguin.jpg
 #     alt: "A closeup of a penguin standing straight up, looking right at you."

@@ -6,7 +6,7 @@ author: "J. B. Rainsberger"
 tags:
     - "Simple Design"
     - "Test Doubles"
-# summary: "People frequently ask me for \"advanced TDD\". I have good news and bad news."
+excerpt: "People frequently ask me for \"advanced TDD\". I have good news and bad news."
 ---
 "I want to get a lot of wisdom on TDD techniques". Many people ask me about this, especially when they sign up for my mailing list. They want the "advanced stuff". I have good news and bad news for them: I don't believe in "advanced TDD". If you want advanced testing techniques, then you're probably looking for techniques that will make your code worse, not better. (I don't want you to do that.) If you want "advanced TDD", then you've probably missed the single most important bit of "wisdom on TDD techniques": the tests are telling you how to improve your design, so listen!
 

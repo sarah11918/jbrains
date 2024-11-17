@@ -4,9 +4,9 @@ date: 2020-04-08
 tags:
     - Simple Design
     - Test Doubles
-# summary: >
-#     If you're wondering about whether you should hand-roll your test doubles (mock objects) or
-#     use a library, then this article will help you.
+excerpt: >
+    If you're wondering about whether you should hand-roll your test doubles (mock objects) or
+    use a library, then this article will help you.
 ---
 
 When I teach evolutionary design, participants still often ask me which tools they ought to use to introduce test doubles into their projects. Yes, I nudge them gently in the direction of focusing on principles and techniques and away from fixating on tools, but [they still need a place to start](#references). This question often comes in the following form:

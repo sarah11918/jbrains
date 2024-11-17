@@ -5,10 +5,10 @@ tags:
     - Refactoring
     - Improving Names
     - Simple Design
-# summary: >
-#     Let's look at a simple example of a name. Let's judge the name (kindly!),
-#     then imagine some likely next steps in refactoring. We can learn and
-#     do quite a lot from only a single name!
+excerpt: >
+    Let's look at a simple example of a name. Let's judge the name (kindly!),
+    then imagine some likely next steps in refactoring. We can learn and
+    do quite a lot from only a single name!
 ---
 
 A member of [The jbrains Experience](https://experience.jbrains.ca) posted about a name they had just encountered in their day-job code base:

@@ -4,12 +4,12 @@ date: 2022-06-08
 tags:
     - Simple Design
     - Refactoring
-# summary: >
-#     Refactoring means rework, which means that we didn't "get the
-#     design right the first time". This can indicate a problem. It
-#     can also indicate a natural process of convergence towards a
-#     suitable design. Calling it "a code smell" seems to overstate
-#     the matter.
+excerpt: >
+    Refactoring means rework, which means that we didn't "get the
+    design right the first time". This can indicate a problem. It
+    can also indicate a natural process of convergence towards a
+    suitable design. Calling it "a code smell" seems to overstate
+    the matter.
 ---
 
 Someone is circulating a talk&mdash;a _concise_ one, which I appreciate&mdash;entitled

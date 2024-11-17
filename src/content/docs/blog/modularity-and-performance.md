@@ -5,11 +5,11 @@ tags:
     - "Simple Design"
     - "Dependency Inversion Principle (DIP)"
     - "Evolutionary Design"
-# summary: >
-#     Are you worried that all these little classes and interfaces are going to
-#     destroy your system's performance? Maybe. More often, however,
-#     the bottlenecks are caused by bigger classes and fewer interfaces
-#     causing duplication in the design.
+excerpt: >
+    Are you worried that all these little classes and interfaces are going to
+    destroy your system's performance? Maybe. More often, however,
+    the bottlenecks are caused by bigger classes and fewer interfaces
+    causing duplication in the design.
 ---
 
 When I teach evolutionary design with TDD, I often encounter programmers who don't like all these little classes and all these extra interfaces. (Or all these little higher-order functions, if you prefer. It's the same problem.) They worry that it creates a serious performance problem: deeper call stacks, passing parameters around, that kind of thing. They see memory being unnecessarily allocated and freed, memory becoming fragmented, and garbage collection happening at the worst possible time.

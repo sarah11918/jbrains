@@ -4,12 +4,12 @@ date: 2021-02-01
 tags:
     - Adventures in 11ty
     - Refactoring
-# summary: >
-#     In the process of refactoring an 11ty configuration,
-#     I ran into an error message that I had to work hard
-#     to understand. Fortunately, microcommitting made it
-#     relatively easy to diagnose and fix the problem.
-# image: "/images/Adventures-in-11ty-Twitter-Post.png"
+excerpt: >
+    In the process of refactoring an 11ty configuration,
+    I ran into an error message that I had to work hard
+    to understand. Fortunately, microcommitting made it
+    relatively easy to diagnose and fix the problem.
+image: "/images/Adventures-in-11ty-Twitter-Post.png"
 ---
 
 I recently started a [new project](https://the260bowler.ca/) and used this as an opportunity to learn and practise a few things, among which we find [11ty, a static site generator](https://www.11ty.dev/). I fancy myself a static site generator hipster&mdash;I did it before people called it "JAMstack" and made it cool&mdash;first with Octopress, then with [Jekyll](https://www.jekyllrb.com/). Indeed, I've built my other sites with Jekyll and even built the occasional plug-in, taking advantage of my experience working in Ruby.

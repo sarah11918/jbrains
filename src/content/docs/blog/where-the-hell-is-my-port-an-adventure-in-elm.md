@@ -3,9 +3,9 @@ title: "Where the Hell Is My Port?! An Adventure in Elm"
 date: 2020-01-30
 tags:
     - Simple Design
-# summary: >
-#     When trying to write code incrementally in Elm, I ran into a problem
-#     because Elm tries not to generate Javascript for Elm code not (yet) in use.
+excerpt: >
+    When trying to write code incrementally in Elm, I ran into a problem
+    because Elm tries not to generate Javascript for Elm code not (yet) in use.
 ---
 
 If you add a [_port_ in Elm code](https://guide.elm-lang.org/interop/ports.html), then you need to _use_ that port in your Elm code, otherwise the generated Javascript might not even know that your Elm code uses ports at all. As I learn Elm and become accustomed to its compiler's wonderfully-detailed error messages, encountering error messages like this suddenly feel jarring and I even have trouble understanding them for a moment.

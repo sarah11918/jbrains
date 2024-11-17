@@ -3,11 +3,11 @@ title: "Revealing Intent: A Tiny Example"
 date: 2023-09-05
 tags:
   - Simple Design
-# summary: >
-#   It's easy to give the instruction to **reveal intent**,
-#   but harder to provide helpful examples. I'd like to
-#   provide a tiny one that illustrates the point
-#   quite clearly---at least to me.
+excerpt: >
+  It's easy to give the instruction to **reveal intent**,
+  but harder to provide helpful examples. I'd like to
+  provide a tiny one that illustrates the point
+  quite clearly---at least to me.
 ---
 
 By now you've probably heard of [Four Elements of Simple Design](https://blog.jbrains.ca/permalink/the-four-elements-of-simple-design), among which you'll find this suggestion: **reveal intent**. You've probably also read articles about how to do this, many of which feel entirely subjective and seem to beg their own question: if it's enough to improve names, then I need good judgment to improve names; how do I develop that judgment?

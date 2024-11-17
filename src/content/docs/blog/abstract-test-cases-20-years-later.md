@@ -3,9 +3,9 @@ title: "Abstract Test Cases, 20 Years Later"
 date: 2021-02-23
 tags:
     - Beware the Integrated Tests Scam (was Integrated Tests Are a Scam)
-# summary: >
-#     Revised one of my earliest contributions to the evolutionary design
-#     community: abstract test cases and their evolution into contract tests
+excerpt: >
+    Revised one of my earliest contributions to the evolutionary design
+    community: abstract test cases and their evolution into contract tests
 ---
 
 While writing something else entirely, I stumbled upon one of my earliest contributions to the evolutionary design/TDD community. I called them _abstract test cases_ at the time, but today we know them as _contract tests_. Has much changed in the 20 years since I first wrote about this in public? [No.](https://en.wikipedia.org/wiki/Betteridge%27s_law_of_headlines)

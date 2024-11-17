@@ -3,9 +3,9 @@ title: "Edit, Then Execute"
 date: 2021-07-16
 tags:
     - Microtechniques
-# summary: >
-#     If you want the full power of your trusted text editor to
-#     compose and edit long shell commands, then you can have it!
+excerpt: >
+    If you want the full power of your trusted text editor to
+    compose and edit long shell commands, then you can have it!
 ---
 
 I used to waste significant energy trying to edit shell commands at the shell command prompt. Yes, [I could use `vi` mode on `readline`](https://www.gnu.org/software/bash/manual/html_node/Readline-vi-Mode.html), but that never quite gave me the same, rich experience. I found it helpful for minor edits, but when someone introduced me to the `edit-and-execute` command, my entire relationship with command-line tools changed. Once I had the full power of my trusted text editor to compose and edit commands, I stopped valuing GUI clients as highly and I started valuing the scriptability of command-line UIs much more.

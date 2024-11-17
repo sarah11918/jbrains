@@ -3,9 +3,9 @@ title: "How Tests Support Refactoring"
 date: 2023-02-28
 tags:
     - Refactoring
-# summary: >
-#     No, tests aren't supposed to make refactoring _easier_; they
-#     make refactoring **safer**. Sometimes, by accident, they do both.
+excerpt: >
+    No, tests aren't supposed to make refactoring _easier_; they
+    make refactoring **safer**. Sometimes, by accident, they do both.
 ---
 
 I have witnessed programmers express annoyance about how tests seem to interfere with changing production code. A discussion on this topic [led here](https://mastodon.social/@nat@ruby.social/109938741113806550):

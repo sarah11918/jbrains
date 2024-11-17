@@ -4,9 +4,9 @@ date: 2021-08-24
 tags:
     - The Little Things
     - Tutorials
-# summary: >
-#     A concise guide for going from nothing to a working
-#     nodejs environment on Linux environments.
+excerpt: >
+    A concise guide for going from nothing to a working
+    nodejs environment on Linux environments.
 ---
 This is not a step-by-step guide, but more of an overview that can help you stitch together the detailed step-by-step guides out there.
 

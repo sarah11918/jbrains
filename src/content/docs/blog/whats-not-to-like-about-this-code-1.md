@@ -5,9 +5,9 @@ tags:
     - Refactoring
     - Simple Design
     - What's Not To Like About This Code?
-# summary: >
-#     What happens when I try to review code in small steps and in public?
-#     Let's find out.
+excerpt: >
+    What happens when I try to review code in small steps and in public?
+    Let's find out.
 ---
 
 Code Reviews have a bad reputation. It seems easy to do them poorly, to create friction, to hurt people, and to waste both time and energy doing them. For this reason, I developed a simple serious game: ["What's Not To Like About This Code?"](https://www.jbrains.ca/sessions/whats-not-to-like-about-this-code)

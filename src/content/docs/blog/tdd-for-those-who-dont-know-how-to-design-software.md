@@ -6,13 +6,13 @@ tags:
   - Refactoring
   - Evolutionary Design
   - Programming Without Blame
-# summary: >
-#   TDD is for those who don't know how to design software,
-#   which doesn't have to mean that we're all dopes who are
-#   doomed to perpetual failure. Let's explore
-#   this idea through the lens of an experienced practitioner
-#   suddenly confronted with some sharp words from a luminary
-#   in our field.
+excerpt: >
+  TDD is for those who don't know how to design software,
+  which doesn't have to mean that we're all dopes who are
+  doomed to perpetual failure. Let's explore
+  this idea through the lens of an experienced practitioner
+  suddenly confronted with some sharp words from a luminary
+  in our field.
 ---
 I've been reading [Kent Beck's writing on Substack](https://substack.com/@kentbeck) and on the occasion of the death of [Niklaus Wirth](https://en.wikipedia.org/wiki/Niklaus_Wirth), he shared part of a conversation he'd had with the professor when Kent had arranged to sit next to him on the flight home from a conference they'd both spoken at.
 

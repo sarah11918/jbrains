@@ -4,10 +4,10 @@ date: 2021-08-12
 tags:
     - Not Just Coding
     - The Little Things
-# summary: >
-#     Some programmers try TDD and feel blocked right away.
-#     "How do I write a test for code that doesn't yet exist?!"
-#     I remember how it felt and what happened when I tried anyway.
+excerpt: >
+    Some programmers try TDD and feel blocked right away.
+    "How do I write a test for code that doesn't yet exist?!"
+    I remember how it felt and what happened when I tried anyway.
 ---
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">1. Change the code as usual<br>2. Write a test that only passes after the change<br>3. Revert to before 1<br>4. Type the test again (copy/paste is cheating &amp; invalidates the warranty of the exercise)<br>5. Make it compile by changing the code<br>6. See it fail<br>7. Change the code to make it pass</p>&mdash; Kent Beck (@KentBeck) <a href="https://twitter.com/KentBeck/status/1421257650113634304?ref_src=twsrc%5Etfw">July 30, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 

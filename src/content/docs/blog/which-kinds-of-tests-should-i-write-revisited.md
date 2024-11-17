@@ -3,11 +3,11 @@ title: "Which Kinds of Tests Should I Write? Revisited"
 date: 2023-09-17
 tags:
   - Programming Without Blame
-# summary: >
-#   "TDD or BDD?" or "Functional Tests or Unit Tests?"
-#   Write any tests! The more clearly you understand the
-#   purpose of those tests, the more these apparent
-#   dilemmas will fade into the background.
+excerpt: >
+  "TDD or BDD?" or "Functional Tests or Unit Tests?"
+  Write any tests! The more clearly you understand the
+  purpose of those tests, the more these apparent
+  dilemmas will fade into the background.
 ---
 
 I see so many programmers tying themselves up in knots, trying to find "the right" testing strategy. I'd like to offer them a simple idea intended to make at least one of these knots loosen itself and disappear.

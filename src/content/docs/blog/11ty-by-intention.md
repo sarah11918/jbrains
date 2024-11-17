@@ -4,12 +4,12 @@ date: 2021-02-15
 tags:
     - Adventures in 11ty
     - Simple Design
-# summary: >
-#     I started out by wanting a Nunjucks filter to reverse
-#     a collection of posts, from which I would later
-#     "take 10", but then I realized I could simply program
-#     _by intention_.
-# imageUri: "/images/Adventures-in-11ty-Twitter-Post.png"
+excerpt: >
+    I started out by wanting a Nunjucks filter to reverse
+    a collection of posts, from which I would later
+    "take 10", but then I realized I could simply program
+    _by intention_.
+imageUri: "/images/Adventures-in-11ty-Twitter-Post.png"
 ---
 Over at [The 260 Bowler](https://the260bowler.ca) I've added a handful of diary entries (just _blog posts_), so now I want a diary page (think _recent posts_). I started simply, iterating over all the entries, summarizing them, then starting to add nice styles so that they look vaguely like a diary page. I'll make it look really nice before I move on.
 

@@ -3,10 +3,10 @@ title: "How Reuse Happens"
 date: 2016-02-04
 tags:
   - Dependency Inversion Principle (DIP)
-# summary: >
-#    Reuse is not a myth; you can choose to make code reusable. If you try to test it, you'll feel
-#    positive pressure to make it reusable, anyway. If you want to test `private` code, then you
-#    already feel this pressure. Go with it.
+excerpt: >
+   Reuse is not a myth; you can choose to make code reusable. If you try to test it, you'll feel
+   positive pressure to make it reusable, anyway. If you want to test `private` code, then you
+   already feel this pressure. Go with it.
 ---
 I often hear this: _Why should we extract this code? We only use it in one place. It doesn't make sense to extract it._ And yet, that same person wants to write tests for `private` (or otherwise invisible) behavior. That person is only hurting themselves: they want to treat this code like a separate thing (because they want to test it), but they resist extracting it because "it doesn't feel right". I have safely extracted numerous mini-frameworks and mini-libraries and my only regret remains that I couldn't easily have used someone else's library for this in the first place. (How many times to we need to reimplement processing command line arguments? Mapping data from Java to SQL? Processing HTTP request headers? Hasn't someone solved these already?)
 

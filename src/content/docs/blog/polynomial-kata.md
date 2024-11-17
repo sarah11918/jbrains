@@ -7,9 +7,9 @@ tags:
     - Evolutionary Design
     - Tutorials
     - Removing Duplication Deftly
-# summary: >
-#     An example of test-first programming, focusing on adding behavior
-#     incrementally and removing duplication.
+excerpt: >
+    An example of test-first programming, focusing on adding behavior
+    incrementally and removing duplication.
 ---
 
 I noticed that [Ron Jeffries had written about a kata I hadn't tried before](https://ronjeffries.com/articles/-z022/strawberries/-z00/sb-009/), so I decided to try it. The exercise involves evaluating a polynomial of one variable at a single point.
