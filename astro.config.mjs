@@ -11,8 +11,11 @@ export default defineConfig({
 				src: './src/assets/logo.png',
 			  },
 			social: {
-				github: 'https://github.com/withastro/starlight',
+				github: 'https://github.com/sarah11918/jbrains',
 			},
+			customCss: [
+				'./src/styles/custom.css',
+			  ],
 			sidebar: [
 				{
 					label: 'Guides',
