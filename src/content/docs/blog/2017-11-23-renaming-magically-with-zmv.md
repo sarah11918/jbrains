@@ -1,6 +1,6 @@
 ---
 title: "Renaming Magically With zmv"
-date: 2017-11-23 06:20 +0100
+date: 2017-11-23
 tags:
     - Microtechniques
 summary: >

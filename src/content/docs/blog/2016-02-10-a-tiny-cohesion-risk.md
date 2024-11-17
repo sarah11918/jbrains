@@ -1,6 +1,6 @@
 ---
 title: "A Tiny Cohesion Risk"
-date: 2016-02-10 11:58 -0400
+date: 2016-02-10
 ---
 Today I'd like to share an example of a tiny cohesion risk. I leave it to you to evaluate the severity of the risk and the appropriateness of the refactoring. I like to deal with risks when they are small enough that their impact, while painful, probably won't kill.
 

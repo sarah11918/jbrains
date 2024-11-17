@@ -1,6 +1,6 @@
 ---
 title: "Which Kinds of Tests Should I Write? Revisited"
-date: 2023-09-17 19:41 -0300
+date: 2023-09-17
 tags:
   - Programming Without Blame
 summary: >

@@ -1,6 +1,6 @@
 ---
 title: "Keep Dependency Injection Simple"
-date: 2017-12-10 12:42 +0100
+date: 2017-12-10
 tags:
     - Simple Design
 excerpt: >

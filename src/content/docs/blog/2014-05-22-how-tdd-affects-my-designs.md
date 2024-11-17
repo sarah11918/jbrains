@@ -1,6 +1,6 @@
 ---
 title: "How TDD Affects My Designs"
-date: 2014-05-22 14:34 -0300
+date: 2014-05-22
 tags: 
 ---
 I [have](https://twitter.com/jbrains/status/205679396508549120) [written](https://twitter.com/jbrains/status/468555663929769984) [elsewhere](https://twitter.com/jbrains/status/314574600069607424) that people, not rules, do things. I have written this in exasperation over some people claiming that TDD has ruined their lives in all manner of ways. Enough!

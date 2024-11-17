@@ -1,6 +1,6 @@
 ---
 title: "What Good is Subclass to Test, Anyway?"
-date: 2015-04-07 03:30 -0300
+date: 2015-04-07
 tags:
 ---
 > We recently ran a legacy code retreat based on your format. People were questioning the value of subclass-to-test in a real world scenario. The best reason I could come up with for myself was that it's a smaller step to separating out responsibilities from a class.

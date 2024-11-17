@@ -1,6 +1,6 @@
 ---
 title: "Breaking Through Your Refactoring Rut"
-date: 2020-05-13 12:30 -0300
+date: 2020-05-13
 tags:
     - Simple Design
     - Microtechniques

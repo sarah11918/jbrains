@@ -1,6 +1,6 @@
 ---
 title: "The Power of Precise Names: An Example"
-date: 2023-04-28 11:52 -0300
+date: 2023-04-28
 tags:
     - Refactoring
     - Improving Names

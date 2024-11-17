@@ -1,6 +1,6 @@
 ---
 title: "No More Boilerplate Code"
-date: 2016-10-09 13:37 +0200
+date: 2016-10-09
 tags:
   - "Simple Design"
   - Dependency Inversion Principle (DIP)

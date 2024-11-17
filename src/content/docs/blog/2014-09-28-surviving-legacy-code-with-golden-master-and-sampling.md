@@ -1,6 +1,6 @@
 ---
 title: "Surviving Legacy Code with Golden Master and Sampling"
-date: 2014-09-28 14:09
+date: 2014-09-28
 lastUpdated: 2017-12-08
 tags:
   - "Surviving Legacy Code"

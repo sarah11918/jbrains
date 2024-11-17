@@ -1,6 +1,6 @@
 ---
 title: "Designing the Entry Point"
-date: 2015-12-02 14:58 +0200
+date: 2015-12-02
 tags:
   - Dependency Inversion Principle (DIP)
 ---

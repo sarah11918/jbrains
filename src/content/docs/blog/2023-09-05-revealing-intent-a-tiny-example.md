@@ -1,6 +1,6 @@
 ---
 title: "Revealing Intent: A Tiny Example"
-date: 2023-09-05 09:03 -0300
+date: 2023-09-05
 tags:
   - Simple Design
 summary: >

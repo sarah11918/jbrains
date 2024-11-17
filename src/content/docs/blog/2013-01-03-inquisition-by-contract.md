@@ -1,6 +1,6 @@
 ---
 title: "Inquisition By Contract"
-date: "2013-01-03 14:47 AT"
+date: 2013-01-03
 ---
 Just a fun link today.
 

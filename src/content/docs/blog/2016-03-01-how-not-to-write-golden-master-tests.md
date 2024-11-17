@@ -1,6 +1,6 @@
 ---
 title: "How Not To Write Golden Master Tests"
-date: 2016-03-01 12:30 -0400
+date: 2016-03-01
 ---
 I recently encountered a code base in which someone had applied the Golden Master technique, but done so in a way I find risky, so I wanted to warn you against letting this happen in your code. This code exhibits a bad idea that probably started out as a good idea or seemed like a good idea at the time. This makes it plausible-but-risky, and this is where a lot of legacy code comes from.
 

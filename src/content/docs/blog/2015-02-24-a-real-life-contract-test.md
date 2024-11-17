@@ -1,6 +1,6 @@
 ---
 title: "A Real-Life Contract Test"
-date: 2015-03-05 04:00 -0400
+date: 2015-03-05
 tags:
 ---
 For years I've written about contract tests, and most notably have never had any clear examples of them to share with you. I'd like to change that today.

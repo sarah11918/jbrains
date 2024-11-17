@@ -1,6 +1,6 @@
 ---
 title: "Null: Design Tool"
-date: 2015-05-29 07:00 -0300
+date: 2015-05-29
 tags:
   - Dependency Inversion Principle (DIP)
 ---

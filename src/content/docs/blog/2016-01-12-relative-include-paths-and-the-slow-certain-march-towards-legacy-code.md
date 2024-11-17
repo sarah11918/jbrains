@@ -1,6 +1,6 @@
 ---
 title: "Relative Include Paths and the Slow, Certain March Towards Legacy Code"
-date: 2016-01-12 10:30 -0300
+date: 2016-01-12
 lastUpdated: 2020-08-10
 tags:
   - "Surviving Legacy Code"

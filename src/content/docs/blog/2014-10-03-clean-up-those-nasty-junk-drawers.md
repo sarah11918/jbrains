@@ -1,6 +1,6 @@
 ---
 title: "Clean Up Those Nasty Junk Drawers"
-date: 2014-10-04 09:13 +0200
+date: 2014-10-04
 tags:
   - "Improving Names"
 ---

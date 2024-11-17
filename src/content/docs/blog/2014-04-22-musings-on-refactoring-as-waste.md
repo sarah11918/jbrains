@@ -1,6 +1,6 @@
 ---
 title: "Musings on Refactoring as Waste"
-date: 2014-04-22 12:39 -0300
+date: 2014-04-22
 tags: 
 ---
 Recently Bob Marshall opined that [refactoring code is waste](https://link.jbrains.ca/1i63dIG). This reminds me of passionate discussions from a decade ago about testing: should we classify testing as a value-added activity or as an unavoidable waste? I'd like to change the question a little, but first, allow me to play the ball where it lies.

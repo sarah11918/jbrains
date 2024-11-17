@@ -1,6 +1,6 @@
 ---
 title: "Gaining Confidence in Code that Generates HTML"
-date: 2014-10-12 13:18 -0300
+date: 2014-10-12
 tags:
 excerpt_separator: <!--more-->
 ---

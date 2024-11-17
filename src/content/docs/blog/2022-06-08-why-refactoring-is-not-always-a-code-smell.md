@@ -1,6 +1,6 @@
 ---
 title: "Why Refactoring Is Not Always a Code Smell"
-date: 2022-06-08 12:49 -0300
+date: 2022-06-08
 tags:
     - Simple Design
     - Refactoring

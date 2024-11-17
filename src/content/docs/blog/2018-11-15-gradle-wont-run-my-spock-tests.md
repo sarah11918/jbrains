@@ -1,6 +1,6 @@
 ---
 title: "Gradle Won't Run My Spock Tests"
-date: 2018-11-15 06:11 +0100
+date: 2018-11-15
 summary: >
     If you write a Spock test, but forget to subclass from `Specification`, then you might not notice the mistake.
 tags:

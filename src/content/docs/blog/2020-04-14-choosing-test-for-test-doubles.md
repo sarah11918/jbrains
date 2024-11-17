@@ -1,6 +1,6 @@
 ---
 title: "Choosing Tools for Test Doubles"
-date: 2020-04-08 10:25 -0300
+date: 2020-04-08
 tags:
     - Simple Design
     - Test Doubles

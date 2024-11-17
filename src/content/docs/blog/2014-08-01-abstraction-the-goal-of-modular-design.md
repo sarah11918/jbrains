@@ -1,6 +1,6 @@
 ---
 title: "Abstraction: The Goal of Modular Design"
-date: 2014-08-01 13:16 -0300
+date: 2014-08-01
 tags: 
   - Dependency Inversion Principle (DIP)
 ---

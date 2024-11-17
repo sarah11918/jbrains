@@ -1,6 +1,6 @@
 ---
 title: "Where the Hell Is My Port?! An Adventure in Elm"
-date: 2020-01-30 16:30 -0400
+date: 2020-01-30
 tags:
     - Simple Design
 summary: >

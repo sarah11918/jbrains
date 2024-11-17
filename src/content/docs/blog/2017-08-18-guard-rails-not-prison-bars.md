@@ -1,6 +1,6 @@
 ---
 title: "Guard Rails, Not Prison Bars"
-date: 2017-08-18 12:00 -0400
+date: 2017-08-18
 tags:
     - Simple Design
 excerpt: >

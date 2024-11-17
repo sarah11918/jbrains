@@ -1,6 +1,6 @@
 ---
 title: "The Myth of Advanced TDD"
-date: 2017-11-16 11:25 +0200
+date: 2017-11-16
 author: "J. B. Rainsberger"
 image: https://gallery.mailchimp.com/80ca60ec48ef77dfaa1f38943/images/0e779918-7d9b-431e-b845-859235cd39ee.jpg
 tags:

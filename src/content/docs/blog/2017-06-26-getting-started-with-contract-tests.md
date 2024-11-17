@@ -1,6 +1,6 @@
 ---
 title: "Getting Started with Contract Tests"
-date: 2017-06-25 14:03 -0300
+date: 2017-06-25
 tags:
   - Beware the Integrated Tests Scam (was Integrated Tests Are a Scam)
   - Test Doubles

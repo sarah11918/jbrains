@@ -1,6 +1,6 @@
 ---
 title: "Organizing Integration Tests: I Keep It Simple"
-date: 2018-07-07 12:00 -0300
+date: 2018-07-07
 tags:
   - "Beware the Integrated Tests Scam (was Integrated Tests Are a Scam)"
   - "Simple Design"

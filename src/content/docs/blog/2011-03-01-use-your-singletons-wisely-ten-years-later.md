@@ -1,6 +1,6 @@
 ---
 title: "Use Your Singletons Wisely: Ten Years Later"
-date: 2011-03-01 03:00 -0300
+date: 2011-03-01
 lastUpdated: 2022-09-22
 tags:
   - Dependency Inversion Principle (DIP)

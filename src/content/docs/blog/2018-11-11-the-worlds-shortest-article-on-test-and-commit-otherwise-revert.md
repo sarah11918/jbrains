@@ -1,6 +1,6 @@
 ---
 title: "The World's Shortest Article on (test && commit) || revert"
-date: 2018-11-11 10:21 +0100
+date: 2018-11-11
 tags:
     - Simple Design
     - Microtechniques

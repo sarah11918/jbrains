@@ -1,6 +1,6 @@
 ---
 title: "Your Tests Are Dragging You Down"
-date: 2015-03-28 03:30 -0300
+date: 2015-03-28
 tags:
 ---
 I've written in the past that [integrated tests are a scam](https://bit.ly/QWK7do), but that's not what I mean here.

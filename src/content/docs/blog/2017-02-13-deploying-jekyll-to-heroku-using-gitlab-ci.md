@@ -1,6 +1,6 @@
 ---
 title: "Deploying Jekyll to Heroku using GitLab CI"
-date: 2017-02-13 19:16 -0400
+date: 2017-02-13
 tags:
   - Tutorials
 excerpt: >

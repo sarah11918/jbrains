@@ -1,6 +1,6 @@
 ---
 title: "How Reuse Happens"
-date: 2016-02-04 11:45 -0400
+date: 2016-02-04
 tags:
   - Dependency Inversion Principle (DIP)
 summary: >

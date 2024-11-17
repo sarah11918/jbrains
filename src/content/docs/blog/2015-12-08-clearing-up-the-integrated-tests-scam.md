@@ -1,6 +1,6 @@
 ---
 title: "Clearing Up the Integrated Tests Scam"
-date: 2015-12-08 13:30 +0100
+date: 2015-12-08
 tags:
   - "Beware the Integrated Tests Scam (was Integrated Tests Are a Scam)"
 ---

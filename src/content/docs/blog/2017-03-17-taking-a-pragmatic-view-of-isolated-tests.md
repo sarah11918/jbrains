@@ -1,6 +1,6 @@
 ---
 title: "Taking a Pragmatic View of Isolated Tests"
-date: 2017-03-17 15:38 -0300
+date: 2017-03-17
 summary: >
     A rundown of reasons to prefer isolated/focused tests to integrated tests.
 tags:

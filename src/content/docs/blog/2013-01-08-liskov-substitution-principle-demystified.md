@@ -1,6 +1,6 @@
 ---
 title: "The Liskov Substitution Principle Demystified"
-date: "2013-01-08 14:03 AT"
+date: 2013-01-08
 ---
 I apologise for the pompous title; I wrote it just for fun. If this "demystifies" anything, I'll consider that a coincidence.
 

@@ -1,6 +1,6 @@
 ---
 title: "You Don't Hate Mocks; You Hate Side-Effects"
-date: 2020-05-02 11:00 -0300
+date: 2020-05-02
 lastUpdated: 2021-09-05
 tags:
     - Test Doubles

@@ -1,6 +1,6 @@
 ---
 title: "Tests Don't Have Special Permission to Repeat Themselves"
-date: 2016-06-07 13:00 +0300
+date: 2016-06-07
 tags:
   - Simple Design
 ---

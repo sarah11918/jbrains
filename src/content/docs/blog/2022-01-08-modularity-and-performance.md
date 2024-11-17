@@ -1,6 +1,6 @@
 ---
 title: "Modularity and Performance"
-date: "2022-01-08"
+date: 2022-01-08
 tags:
     - "Simple Design"
     - "Dependency Inversion Principle (DIP)"

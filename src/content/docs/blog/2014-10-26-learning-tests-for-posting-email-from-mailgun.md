@@ -1,6 +1,6 @@
 ---
 title: "Learning Tests for POSTing Email from Mailgun"
-date: 2014-10-26 21:26 -0300
+date: 2014-10-26
 tags:
 ---
 I had intended to write a nice article showing a concrete example of _learning tests_ in action, then something wonderful happened: all the code disappeared.

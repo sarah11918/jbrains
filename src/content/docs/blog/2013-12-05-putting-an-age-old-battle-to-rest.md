@@ -1,6 +1,6 @@
 ---
 title: "Putting An Age-Old Battle To Rest"
-date: 2013-12-07 08:50 +0100
+date: 2013-12-07
 tags:
   - "Improving Names"
 ---

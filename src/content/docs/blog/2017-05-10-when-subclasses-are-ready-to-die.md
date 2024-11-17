@@ -1,6 +1,6 @@
 ---
 title: "When Subclasses Are Ready To Die"
-date: 2017-05-10 14:22 -0300
+date: 2017-05-10
 tags:
     - Simple Design
 excerpt: >

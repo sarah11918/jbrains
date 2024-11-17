@@ -1,6 +1,6 @@
 ---
 title: "How a Smell in the Tests Points to a Risk in the Design"
-date: 2016-01-21 12:30 -0300
+date: 2016-01-21
 ---
 In ["What Is Functional Programming?"](https://blog.jenkster.com/2015/12/what-is-functional-programming.html) I spotted a nice example of how duplication in tests leads to a suggestion to improve the design.
 

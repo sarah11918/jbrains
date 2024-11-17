@@ -1,6 +1,6 @@
 ---
 title: "How To Recover From the Integrated Tests Scam"
-date: 2015-11-07 17:00 -0400
+date: 2015-11-07
 tags:
   - "Beware the Integrated Tests Scam (was Integrated Tests Are a Scam)"
 ---
