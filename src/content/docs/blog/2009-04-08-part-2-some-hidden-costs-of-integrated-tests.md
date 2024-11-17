@@ -1,0 +1,39 @@
+---
+title: "Part 2: Some Hidden Costs of Integrated Tests"
+date: 2009-04-08
+tags:
+  - "Beware the Integrated Tests Scam (was Integrated Tests Are a Scam)"
+---
+> I fear that this first article in the series may be attacking a view that very few people hold: the idea that one should test all code paths by integration testing alone. — Dan Fabulich
+
+When I tell <span class="caps">TDD</span> practitioners [my opinion about integrated tests](https://integrated-tests-are-a-scam.jbrains.ca), some treat my position as a straw man. They point out that “no one” seriously tries to test entire systems exclusively with integrated tests. While I understand their reaction, I need to point out that I never made that claim. I see far more damaging behavior in teams that practise <span class="caps">TDD</span>: they duplicate a sizable amount of their effort by designing their objects with thorough focused tests, then adding a suite of integrated tests that verify a substantial amount of the same behavior. I understand why they do it. I used to do it. And I want them to stop.
+
+Every integrated test costs… well, I don’t know how to accurately say how much it costs. After computing the superficial cost of writing and maintaining the test, I quickly lose track of the varying effects of writing integrated tests in place of, or even in addition to, focused object tests. I can compute the raw execution time tax on integrated tests: an average focused test executes in 4 ms, while an average integrated tests takes closer to 100 ms. I feel comfortable estimating the difference at a more conservative order of magnitude base 10. Beyond that, I find myself lost in the implications of writing integrated tests to form a clear picture of the cost. Let me give you an idea of what I mean.
+
+A Tale of Two Test Suites
+=========================
+
+Consider two test suites. One executes in 6 seconds, and the other in 1 minute. Pretend they cover the same code equally well. I mean that they have the same power to uncover mistakes in the system. Now imagine yourself writing code and executing the 6-second suite. You make a handful of edits, then you run the tests. What do you do for 6 seconds? You predict the outcome of the test run: they will all pass, or the new test will fail because you’ve just written it, or the new test might pass because you think you wrote too much code to pass a test 10 minutes ago. In that span of time, you have your result: the tests all pass, so now you refactor. You probably needed about 6 seconds to read up to here.
+
+Now imagine you run the 1-minute test suite. Once again, you predict the result, during which time 6 seconds pass. If you work alone, then after 8 seconds you’ve started drumming your fingers on the desk or letting your eyes dart around the room. You notice the long list of tasks on the team task board. You start to feel your stomach rumble, noticing the time: 11:42. Time for lunch soon. You wonder what the cantina has for lunch, so you point your browser at their intranet site. Tilapia sounds good. You wonder whether Lisa will join you for lunch, so you switch to your email client. Before you write her, you notice a notification to pay your credit card bill. You can do that in 30 seconds, so you switch back to your browser to log in to online banking and quickly make a payment. It turns out Lisa has a lunch meeting, and you reconsider your choice of fish. Today, you decide, feels like a burger day. In the time you imagined yourself doing that, assuming you guessed how long it took to actually do what you imagined, over 1 minute passed. The computer has spent valuable computing time waiting for you.
+
+Pairing doesn’t seem to solve this problem. If you ran this test suite during a pair-programming session, then you probably spent time chatting. At first, you discussed the recent test. After a while, you discussed the task. That killed about 40 seconds, so you started drifting to other topics: the weekend, the kids, XBox, Battlestar Galactica, baseball, management… then you turned around to notice the test run finished while you were arguing whether Cliff Lee deserved the Cy Young award. I don’t mind injecting plenty of relaxed conversation into my work, but when waiting repeatedly for a 1-minute test suite it doesn’t take long to run out of things to talk about.
+
+I need to point out the dual cost here. The first, we can easily see and measure: the time we spend waiting for the tests plus the time the computer waits for us, because we find it hard to stare at the test runner for 60 seconds and react to it immediately after it finishes. I don’t care much about that cost. I care about the visible but highly unquantifiable cost of losing focus.
+
+<span class="caps">TDD</span> works well for me in large part because it helps me focus. When I write a test, I clarify my immediate goal, focus on making it pass, then focus on integrating that work more appropriately into the design. I get to do this in short cycles that demand sustained focus and allow brief recovery[^recovery]. This cycle of focus and recovery builds rhythm and this rhythm builds momentum. This helps lead to the commonly-cited and powerful state of flow. A 6-second test run provides a moment to recover from exertion; whereas a 1-minute test run disrupts flow. It acts like an annoying short interruption every few minutes. We can try to measure the cumulative effect of these interruptions, but I guess you can imagine a day, possibly a recent one, when periodic short interruptions made it nearly impossible for you to concentrate. How productive did you feel that day? How much did you achieve? How much pressure did you feel to catch up the next day? How relaxed did you feel that evening at home? Did you enjoy dinner? Did you feel present for your spouse or kids or pets? How well did you sleep? How refreshed did you feel the next morning?
+
+[^recovery]: For more about the focus/recovery cycle, I highly recommend [The Power of Full Engagement](#references)
+
+Among the early <span class="caps">TDD</span> literature I distinctly remember reading that practising <span class="caps">TDD</span> would help me focus, relax, achieve more and feel better at the end of a task. I remember agonizing over integrated tests. Teams call me expressly to learn how to tame big, slow, brittle test suites. They don’t call me when they feel focused, relaxed and productive. I tell you: **integrated tests will slowly kill you**.
+
+So What Now?
+============
+
+But you have integrated tests now, and you haven’t yet learned about the alternatives. How can you cope with your reality? You could regain your focus by running the most important 10% of those tests. That would take 6 seconds and fit into your flow. It also runs a substantial risk of failure. You’ve experienced this. Remember the last time you changed a line of code in one part of the system and it broke something way over there in another module? How did you feel when that happened? How long did you spend tracking down a mistake in some arcane part of they system that perhaps no one understands? How did you deal with having to branch your code changes to deal with the bigger problem? How many times have you told your wild goose chase story to your fellow programmers? How long did you need to recover before returning to a decent state of flow while working on your original task?
+
+So it appears you have a choice between frequent annoying disruptions and less frequent but comparatively catastrophic disruptions. A Morton’s Fork you can blame squarely on integrated tests. Stop writing them.
+
+## References
+
+Jim Loehr and Tony Schwartz, [_The Power of Full Engagement_](https://link.jbrains.ca/14pM4CJ). This book significantly changed my attitude towards managing work&mdash;for the much, much better.
