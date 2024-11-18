@@ -20,17 +20,19 @@ export default defineConfig({
 				'./src/styles/custom.css',
 			  ],
 			sidebar: [
+				{ slug: 'about' },
+				{ slug: 'experience' },
+				{ slug: 'mentoring' },
+				{ slug: 'training' },
+				{ slug: 'working-sessions' },
+				{ slug: 'ensemble-programming'},
+				{ slug: 'consulting' },
+				{ slug: 'speaking' },
+				{ slug: 'learn-more' },
 				{
 					label: 'Guides',
-					items: [
-						// Each item here is one entry in the navigation menu.
-						{ label: 'Example Guide', slug: 'guides/example' },
-					],
-				},
-				{
-					label: 'Reference',
-					autogenerate: { directory: 'reference' },
-				},
+					autogenerate: {directory: 'guides'},
+				}
 			],
 			plugins: [starlightBlog()],
 		}),

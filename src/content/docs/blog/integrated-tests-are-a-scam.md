@@ -2,6 +2,7 @@
 title: "Beware the Integrated Tests Scam (was Integrated Tests Are a Scam)"
 date: 2009-04-05
 lastUpdated: 2023-04-26
+featured: true
 tags:
   - "Beware the Integrated Tests Scam (was Integrated Tests Are a Scam)"
 ---
@@ -27,7 +28,7 @@ In other words, please don't let the abrasive and judgmental tone get in the way
 <p>Would you prefer to watch a video? {% include integrated-tests-are-a-scam-talk-video.html %}</p>
 </aside>
 
-<p><a href="https://integrated-tests-are-a-scam.jbrains.ca">Read more in this series</a></p>
+<p><a href="/blog/tags/beware-the-integrated-tests-scam-was-integrated-tests-are-a-scam">Read more in this series</a></p>
 <p>Integrated tests pose a significant risk to the health of your code base. If you're not careful, accumulating integrated tests will  gradually suffocate your code base, driving you to a place where you have to decide whether it would be cheaper to throw all your tests away and try again. Nobody should have to face that choice.</p>
 <p>Of course, I should clarify what I mean by <em>integrated tests</em>, because, like any term in software, we probably don&#8217;t agree on a meaning for it.</p>
 <blockquote>
@@ -61,4 +62,4 @@ In other words, please don't let the abrasive and judgmental tone get in the way
 <hr />
 <p class="footnote" id="fn6d7a96adc995137445819fd95bd31a74367d9f83"><sup>1</sup> True: few code bases distribute their complexity to their layers uniformly. Suppose half your 12 layers have only two branch points&mdash;one normal path and one error path&mdash;while the others have 5 branch points. 2<sup>6</sup>&middot;5<sup>6</sup> = 1,000,000 and for 4 branch points 2<sup>6</sup>&middot;4<sup>6</sup> &gt; 262,000. You can&#8217;t win this game.</p>
 <p class="footnote" id="fn"><sup>2</sup> Aslak Helles&oslash;y points to a way to take luck mostly out of the equation. <a href="https://www.pairwise.org/">His technique for choosing high-value tests</a> will certainly help, but it stops short of testing your code <strong>thoroughly</strong>. I believe you can achieve truly thorough focused tests with similar cost to writing and maintaining integrated tests even using the pairwise test selection technique. (Thanks, Aslak, for your comment on April 12, 2009.)</p>
-<p><a href="https://integrated-tests-are-a-scam.jbrains.ca">Read more in this series</a></p>
+<p><a href="/blog/tags/beware-the-integrated-tests-scam-was-integrated-tests-are-a-scam">Read more in this series</a></p>

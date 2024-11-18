@@ -1,6 +1,7 @@
 ---
 title: '"Integration Tests are a Scam" is a Scam'
 date: 2010-02-14
+featured: true
 tags:
   - "Beware the Integrated Tests Scam (was Integrated Tests Are a Scam)"
 ---
