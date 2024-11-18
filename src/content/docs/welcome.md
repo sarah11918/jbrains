@@ -1,5 +1,6 @@
 ---
 title: 'Welcome'
+template: splash
 ---
 My name is J. B. Rainsberger. I help companies **profit sooner** from their software projects. I help individuals navigate the **complex world of work**.
 
@@ -13,4 +14,4 @@ How do I help you profit sooner from your software projects? In a handful of way
 - I help all software professionals in all roles build habits that help them **work with less stress** and have **more energy to bring to the profit-producing and profit-promoting parts** of their jobs.
 - I help software projects by being “the fast-forward button”, which sometimes means building the early stages of a project to **help it get off the ground** and sometimes means refactoring designs to **drive down the cost of adding new features**.
 
-Now [read on to learn more](/learn-more/) or, if you’re ready (or intrigued), [skip to the part where we can start working together](/learn-more/).
+Now [read on to learn more](/learn-more/) or, if you’re ready (or intrigued), [skip to the part where we can start working together](/learn-more#are-you-ready-to-start).

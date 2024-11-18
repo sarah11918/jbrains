@@ -20,7 +20,8 @@ export default defineConfig({
 				'./src/styles/custom.css',
 			  ],
 			sidebar: [
-				{ slug: 'about' },
+				{ slug: 'welcome' },
+				{ slug: 'learn-more' },
 				{ slug: 'experience' },
 				{ slug: 'mentoring' },
 				{ slug: 'training' },
