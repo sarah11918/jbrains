@@ -38,11 +38,11 @@ export default defineConfig({
 							items: [
 								{slug: 'course/worlds-best-intro-to-tdd'},
 								{slug: 'course/surviving-legacy-code'},
+								{slug: 'course/coaching-teams-to-adapt-safely'},
 								{slug: 'course/value-driven-product-development'},
+								{slug: 'course/surviving-your-inevitable-agile-transition'},
 								{slug: 'course/evolutionary-design-beyond-the-basics'},
 								{slug: 'course/manufacturing-slack'},
-								{slug: 'course/coaching-teams-to-adapt-safely'},
-								{slug: 'course/surviving-your-inevitable-agile-transition'},
 							],
 						},
 					],
@@ -51,14 +51,6 @@ export default defineConfig({
 				{ slug: 'consulting' },
 				{ slug: 'speaking' },
 				{ slug: 'contact' },
-				{
-					label: 'Pages not in sidebar',
-					items: [
-						{ slug: 'contact/invite' },
-						{ slug: 'sessions/whats-not-to-like-about-this-code' },
-						
-					],
-				},
 			],
 			plugins: [starlightBlog()],
 		}),

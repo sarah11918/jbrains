@@ -1,5 +1,5 @@
 ---
-title: Explore working together
+title: About working together
 ---
 
 Would you like to learn more about how we would work together? Here you can find out about:

@@ -1,5 +1,5 @@
 ---
-title: WBIT
+title: World's best introduction to test-driven development (TDD)
 ---
 
 The World’s Best Intro to TDD: Level 1
