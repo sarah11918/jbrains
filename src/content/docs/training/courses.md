@@ -1,5 +1,5 @@
 ---
-title: Courses
+title: Standard courses
 ---
 
 I offer training courses with a standard curriculum and a set schedule to organizations who want to provide a common learning experience to a wider audience. These are especially suitable for companies looking to offer courses on their internal training or education course catalog. I provide these courses as remote, real-time sessions in blocks of 1/2 day over a period of 1 to 2 weeks. I also offer support sessions to teams or other small groups who need further support to apply what they’ve learned to their projects.

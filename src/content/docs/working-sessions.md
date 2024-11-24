@@ -1,5 +1,5 @@
 ---
-title: Working sessions
+title: Remote working sessions
 ---
 
 If you’d like to book a working session with me, here is what you need to know:

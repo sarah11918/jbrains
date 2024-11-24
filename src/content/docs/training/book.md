@@ -1,8 +1,7 @@
 ---
-title: Schedule training
+title: Schedule a training course
 ---
 
-Schedule Training
 If you’d like to schedule a training course or program, then you’re in the right place!
 
 Overview

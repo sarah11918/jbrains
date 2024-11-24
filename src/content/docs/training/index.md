@@ -1,5 +1,5 @@
 ---
-title: Training
+title: Training Overview
 ---
 
 Training ranges from a standard curriculum in a classroom setting to customized workshops scheduled sporadically over the span of several months. These are sessions designed to focus on learning and practising a particular skill.
