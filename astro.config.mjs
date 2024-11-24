@@ -29,7 +29,7 @@ export default defineConfig({
 				{ slug: 'ensemble-programming'},
 				{ slug: 'consulting' },
 				{ slug: 'speaking' },
-				{ slug: 'learn-more' },
+				{ slug: 'contact' },
 				{
 					label: 'Guides',
 					autogenerate: {directory: 'guides'},
