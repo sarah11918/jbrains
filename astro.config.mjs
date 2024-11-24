@@ -23,7 +23,7 @@ export default defineConfig({
 				{ slug: 'welcome' },
 				{ slug: 'learn-more' },
 				{ slug: 'experience' },
-				{ slug: 'mentoring' },
+				{ slug: 'mentoring/office-hours' },
 				{ slug: 'training' },
 				{ slug: 'working-sessions' },
 				{ slug: 'ensemble-programming'},

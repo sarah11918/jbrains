@@ -11,17 +11,17 @@ You need help, but you **can’t justify the expense of a full-time coach**. May
 
 ## Do any of these sound like you?
 
-- I can get free advice from random people on the internet, but I don’t know whom to trust and most of what I read is just kinda OK. I can’t hang out on Lemmy all day! (or Quora. or Stack Overflow. or Hacker News.)
-- I can read books, but I already have a backlog of 50 books that I’ll probably never get around to reading. I don’t know which books will help me, so I don’t know how to prioritize. And after I’ve read a great book that helps me, reading more in that topic area feels like it doesn’t give me much more.
-- I have about 200 ideas for things to try, but I can’t decide where to start, I can’t do them all at once, and I’m worried that I’m going to choose the wrong thing!
-- I have this learning allowance from my employer, but I need to use it for something more impactful than yet more books or training courses. (Does your employer place special constraints on how you spend your learning allowance? Tell me about your constraints and we can probably work something out that satisfies your employer.)
-- I can talk to people at meetup groups and I learn some things from them, but I don’t feel comfortable just asking them outright for help. It feels like taking advantage of them.
-- I can get help from my friends, but I worry that they generally won’t tell me what I need to hear.
-- I want to do most of the learning on my own, but I don’t have the time or energy to just try everything to see what helps. I need some direction!
+- I can get free advice from random people on the internet, but **I don’t know whom to trust** and most of what I read is just kinda OK. I can’t hang out on Lemmy all day! (or Quora. or Stack Overflow. or Hacker News.)
+- I can read books, but **I already have a backlog of 50 books** that I’ll probably never get around to reading. I don’t know which books will help me, so I don’t know how to prioritize. And after I’ve read a great book that helps me, reading more in that topic area feels like it doesn’t give me much more.
+- I have about 200 ideas for things to try, but **I can’t decide where to start**, I can’t do them all at once, and I’m worried that I’m going to choose the wrong thing!
+- I have this **learning allowance from my employer**, but I need to use it for something more impactful than yet more books or training courses. (Does your employer place special constraints on how you spend your learning allowance? [Tell me about your constraints](/contact/) and we can probably work something out that satisfies your employer.)
+- I can talk to people at meetup groups and I learn some things from them, but **I don’t feel comfortable just asking them outright for help**. It feels like taking advantage of them.
+- I can get help from my friends, but **I worry that they generally won’t tell me what I need to hear**.
+- I want to do most of the learning on my own, but I don’t have the time or energy to just try everything to see what helps. **I need some direction**!
 
 ## How it works
 
-In the space between Do It All Yourself and intensive 1-on-1 coaching lies The jbrains Experience. It works like this:
+In the space between "Do It All Yourself" and intensive 1-on-1 coaching lies **The jbrains Experience**. It works like this:
 
 - You subscribe only as long as you need help, one month at a time.
 - You ask questions to guide the conversation towards the topics that matter most to you right now!
@@ -47,7 +47,7 @@ BUTTON TO JOIN NOW
 
 All subscriptions are monthly, so there’s **no pressure and no long-term commitment**: stay as long as it’s helping and leave when you’ve got what you needed!
 
-> “We (you and me) had one year of fruitful email conversations and I learned a lot from you and your courses. I think we accomplished a lot of the things we talked about in the beginning on how I can get better in software development and why I need to change a job: I got a new job, I leave my old company changed by your and my ideas and the situation is much better there than last year. My colleagues are still motivated to someday break through the management problems or work around them in a way, that the whole company benefits from it even more.” — M. S.
+> “We (you and me) had **one year of fruitful email conversations** and I learned a lot from you and your courses. I think we accomplished a lot of the things we talked about in the beginning on how I can get better in software development and why I need to change a job: I got a new job, I leave my old company changed by your and my ideas and the situation is much better there than last year. My colleagues are still motivated to someday break through the management problems or work around them in a way, that the whole company benefits from it even more.” — M. S.
 
 JOIN NOW BuTTON
 
@@ -74,7 +74,7 @@ I’m known in some circles for being “an old XP dude”, for teaching TDD, an
 
 ## Not only for programmers
 
-Although programmers are still the largest group of software professionals who find me, we address issues that go far beyond writing code, cultivating design, and testing systems. I also help software professionals with other aspects of their work and indeed their lives away from their job.
+Although programmers are still the largest group of software professionals who find me, we address issues that go far beyond writing code, cultivating design, and testing systems. I also help software professionals with **other aspects of their work** and indeed their lives away from their job.
 
 - Managing personal finances and lifestyle design
 - Becoming a freelancer
@@ -93,7 +93,7 @@ BUY BUTTON
 
 ## A note to companies 
 
-I offer this mentoring service to individuals, but companies also hire me for this style of incremental consulting at a distance. If you’re bigger than a “one-person show”, then please [read more about how to book a working session with me](https://book.jbrains.ca). This service is not suitable for me to mentor a team nor to do roving consulting for various teams within a larger organization. If you need a more comprehensive program than merely the occasional working session, then find out more at https://consulting.jbrains.ca.
+I offer this mentoring service to individuals, but companies also hire me for this style of incremental consulting at a distance. If you’re bigger than a “one-person show”, then please [read more about how to book a working session with me](/working-sessions/). This service is not suitable for me to mentor a team nor to do roving consulting for various teams within a larger organization. If you need a more comprehensive program than merely the occasional working session, then [explore my consulting services](/consulting/).
 
 If you’re an individual working in a larger organization, then please join us! If, over time, you decided that it would benefit the organization to engage me, then we would know enough by then to start designing a coaching program that fits your wider community.
 
