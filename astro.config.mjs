@@ -6,9 +6,11 @@ import starlightBlog from 'starlight-blog'
 export default defineConfig({
 	integrations: [
 		starlight({
-			title: '',
+			title: 'JBR',
+			favicon: '/images/favicon.ico',
 			logo: {
 				src: './src/assets/logo.png',
+				replacesTitle: true,
 			  },
 			social: {
 				github: 'https://github.com/jbrains',
@@ -33,7 +35,7 @@ export default defineConfig({
 						{ slug: 'training/upcoming-public-courses' },
 						{ slug: 'training/book'},
 
-						{ 	label: 'Course List 2025',
+						{ 	label: '2025 Courses',
 							collapsed: true,
 							items: [
 								{slug: 'course/worlds-best-intro-to-tdd'},
